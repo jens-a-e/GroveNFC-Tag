@@ -11,8 +11,15 @@ Unfortunately it turns otu that the proptyping with NFC tags beyond a simple RFI
 
 However, this is a start to add an app for iOS as Seeed Studio only links one for Android.
 
+# Licenses
+
+Source code written by the researcher in this repository is licensed under the Gnu Public License (GPL).
+
+[![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+Any other original content is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+
 # Acknowledgments
 
-🇪🇺 This project is part of [OpenDoTT](https://opendott.org.) and has received
-funding from the European Union’s Horizon 2020 research and innovation programme
-under the Marie Skłodowska-Curie grant agreement No. 813508.
+🇪🇺 This project is part of [Open Design of Trusted Things (OpenDoTT) doctoral training network](https://opendott.org.) and has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 813508.
